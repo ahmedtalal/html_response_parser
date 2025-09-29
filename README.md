@@ -20,4 +20,4 @@ Add this to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  flutter_webview_renderer: ^1.0.0
+  html_response_parser: ^1.0.0
