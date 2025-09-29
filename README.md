@@ -1,4 +1,4 @@
-# Flutter WebView Renderer
+# Html_response_parser
 
 A lightweight and smart package to handle **HTML API responses** in Flutter.  
 It helps developers extract and parse HTML content returned from APIs easily — without dealing manually with raw HTML strings.
